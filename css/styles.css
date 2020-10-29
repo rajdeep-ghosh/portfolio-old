@@ -113,7 +113,7 @@ a:hover {
 }
 
 .skill-row {
-    margin: 80px auto 80px auto;
+    margin: 80px auto;
     text-align: left;
     width: 50%;
 }
@@ -133,7 +133,7 @@ a:hover {
     font-size: 18px;
     font-weight: 100;
     padding: 10px;
-    border: solid #337FED 0px;
+    border: solid #337FED 0;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
